@@ -1,24 +1,20 @@
 ## 📊 데이터 분석가
+자기소개 적기!
 
-자기소개
-
-### 🛠 기술 스택
+## 🛠 기술 스택
 
 #### 🖥️ 프로그래밍 언어
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 #### 🔍 데이터 분석 도구
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
 
 
-#### 🗄️ 데이터베이스
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
 #### 📊 시각화
+<img src="https://matplotlib.org/_static/logo_light.svg" width="100">  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100"> <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
-<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://matplotlib.org/_static/logo_light.svg" width="100">  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100">
-
-### 🎓 교육 및 자격증
+## 🎓 교육 및 자격증
 
 #### 🏫 학력
 `2021.03 ~ 2025.08` 경북대학교 섬유시스템공학과 & 통계학과 학사 졸업 (4년제) \
@@ -28,8 +24,7 @@
 `2022.12` 워드프로세서 1급 - 대한상공회의소 \
 `2023.09` ADSP 데이터준전문가 - KDIF \
 `2023.09` 6시그마 GB - 한국커리어개발원 \
-`2024.09` SQL개발자 SQLD - KDIF 
-
+`2024.09` SQL개발자 SQLD - KDIF\
 `2024.??` 경영정보시각화능력 \
 `2024.??` 컴퓨터활용능력 1급 \
 `2024.??` 빅데이터분석기사 \
@@ -38,7 +33,8 @@
   
 ####  수상내역
 `2023.08` 제2기 BDA 데이터 분석 활용 공모전 최우수상 \
-`2023.12` 2023 제3회 탈플라스틱 실천활동 하이브리드 공모대전 녹색환경본부총재상
+`2023.12` 2023 제3회 탈플라스틱 실천활동 하이브리드 공모대전 녹색환경본부총재상\
+??
 
 #### 대외활동
 `2023.06 ~ 11` 2023 탈플라스틱 실천활동 수료 \
@@ -46,7 +42,8 @@
 `2024.01 ~ 08` BDA학회 운영진 4기 서베이팀 
 
 #### 어학능력
-`2024.??` 오픽 성적 AI
+`2024.??` 오픽 성적 AI \
+??
 
 #### 교육수료
 `2022.11. ~ 2023.06` BDA 5기 파이썬 문법 기초반 수료 \
